@@ -1,15 +1,9 @@
 # code here!
 class School
 
-  def initialize
-    roster = Hash.new
-  end
+def add_student
+end
 
-  def school=(school)
-    @school = school
-  end
-
-  def school(school)
-    @school = school
-  end
+def sort
+end
 end
